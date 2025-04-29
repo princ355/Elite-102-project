@@ -1,0 +1,6 @@
+user, bank cashier, account, deposits, withdrawls, 
+User: name, accounts, pin
+Accounts: balance, user, savings/checkings(type), interest rate
+Deposits: account, amount, 
+Withdrawls: account, amount, 
+Transactions: deposits & withdrawls
